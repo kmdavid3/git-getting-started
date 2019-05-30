@@ -1,0 +1,24 @@
+{
+  "name": "git-getting-started",
+  "version": "1.0.0",
+  "description": "this project is a sample, there's nothing really interesting inside. SO, just go your way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmdavid3/git-getting-started.git"
+  },
+  "keywords": [
+    "git",
+    "getting-started",
+    "javascript"
+  ],
+  "author": "david kayembe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kmdavid3/git-getting-started/issues"
+  },
+  "homepage": "https://github.com/kmdavid3/git-getting-started#readme"
+}
